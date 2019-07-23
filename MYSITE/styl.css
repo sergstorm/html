@@ -1,0 +1,140 @@
+body
+{
+	font-family: 'Literata', serif;
+	font-size: 24px;
+	color: #6c7279;
+}
+.header
+{
+		background: #31344e url("derevo.jpg") center no-repeat;
+		background-size: cover;
+}
+.intro_title
+{
+	color: #C0F400;
+	text-decoration-color: #8F04A8
+	font-family: 'Tangerine', cursive;
+	font-size: 75px;
+}
+.header_inner
+{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid #515369;
+}
+.nav
+{
+	font-size: 23px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.nav_link
+{
+	padding-right: 20px;
+	margin-left: 50px;
+	color: #fff;
+	text-decoration: none;
+	opacity: 0.75;
+	transition: opacity .1s linear;
+}
+.nav_link:hover
+{
+	text-decoration: underline;
+	opacity: 1;
+}
+.intro
+{
+	flex-direction: column;
+	justify-content: center;
+	padding-top: 100px;
+	height: auto;
+	background: #31344e url("chelovek.jpg") center no-repeat / cover;
+}
+.intro2
+{
+	flex-direction: column;
+	justify-content: center;
+	padding-top: 100px;
+	height: auto;
+	background: #31344e url("command2.jpg") center no-repeat / cover;
+}
+.textintro
+{
+	flex-direction: column;
+	justify-content: center;
+	text-align:center;
+	padding-top: 100px;
+	font-family: 'Literata', serif;
+	font-size: 75px;
+	color: #060840;
+}
+.textintro2
+{
+	flex-direction: column;
+	justify-content: center;
+	text-align:center;
+	padding-top: 700px;
+	font-family: 'Literata', serif;
+	font-size: 75px;
+	color: #FF4900;
+}
+@media (max-width:1000px) {
+   .nav_link
+   {
+		 padding-right: 10px;
+	 	margin-left: 5px;
+    }
+	.intro
+	{
+		padding-top: 50;
+		padding-bottom: 20;
+		height: auto;
+	}
+	.intro_title
+	{
+
+		font-size: 45px;
+
+	}
+	.textintro
+	{
+		font-size: 40px;
+	}
+	.textintro2
+	{
+		font-size: 40px;
+	}
+	.nav_link
+	{
+		font-size: 20px;
+	}
+}
+@media (max-width:800px) {
+	.intro
+	{
+		height: auto;
+	}
+	.intro_title
+	{
+
+		font-size: 20px;
+    margin: auto;
+	}
+	.textintro
+	{
+		margin-left: auto;
+		padding-left: 20PX;
+		font-size: 30px;
+	}
+	.textintro2
+	{
+		margin: auto;
+		padding-left: 20px;
+		font-size: 30px;
+	}
+	.nav_link
+	{
+		font-size: 10px;
+	}
+}

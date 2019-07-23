@@ -1,0 +1,100 @@
+body
+{
+	font-family: 'Literata', serif;
+	font-size: 24px;
+	color: #6c7279;
+}
+.header
+{
+	background: #31344e url("derevo.jpg") center no-repeat / cover;
+}
+.intro_title
+{
+	color: #331919;
+	font-size: 75px;
+	padding-left: 30px;
+}
+.header_inner
+{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid #515369;
+}
+.nav
+{
+	font-size: 23px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.nav_link
+{
+	padding-right: 20px;
+	margin-left: 50px;
+	color: #fff;
+	text-decoration: none;
+	opacity: 0.75;
+	transition: opacity .1s linear;
+}
+.nav_link:hover
+{
+	text-decoration: underline;
+	opacity: 1;
+}
+.intro
+{
+	font-size: 28px;
+	font-weight: 600;
+	color: #6c7279;
+	text-indent: 10mm;
+	font-family: 'Pacifico', cursive;
+	color: #004;
+	background: #ffc599;
+}
+.intro2
+{
+	flex-direction: column;
+	justify-content: center;
+	padding-top: 100px;
+	height: 1080px;
+	background: #31344e url("mey.jpg") center no-repeat / cover;
+}
+.donation
+{
+	flex-direction: column;
+	justify-content: center;
+	padding-top: 100px;
+ text-align: center;
+ color: #f7ef02;
+ font-size: 25px;
+	height: 200px;
+	background: #acb7f2;
+
+}
+.btn
+{
+	padding: 14px 40px;
+	border-radius: 15px;
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 33px;
+	color: #fff;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: background .1s linear;
+
+}
+.btn--red
+{
+	background-color: #e84545;
+}
+.btn--red:hover
+{
+	background-color: #e81434;
+}
+.insided
+{
+ text-align: center;
+}
