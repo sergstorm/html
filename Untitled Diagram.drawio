@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T12:54:05.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 OPR/64.0.3417.92" etag="gA66mJ4qyQoHg1y_xicX" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T12:55:46.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 OPR/64.0.3417.92" etag="Dw62zOVcgf3Wiq4LqYQh" version="12.2.6" type="github" pages="1">
   <diagram id="LT8NGlE6znpElKoow22y" name="Page-1">
     <mxGraphModel dx="5067" dy="5305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,6 +65,12 @@
         </mxCell>
         <mxCell id="glAQ6yH-N_NOaPnOlpz6-7" value="UNDERMAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=96;" vertex="1" parent="1">
           <mxGeometry x="875" y="118.5" width="860" height="163" as="geometry"/>
+        </mxCell>
+        <mxCell id="glAQ6yH-N_NOaPnOlpz6-17" value="EveryThing do right" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=96;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="1350" width="750" height="220" as="geometry"/>
+        </mxCell>
+        <mxCell id="glAQ6yH-N_NOaPnOlpz6-18" value="everything do wrong" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=96;" vertex="1" parent="1">
+          <mxGeometry x="-516" y="1350" width="454" height="230" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
