@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T13:58:39.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 OPR/64.0.3417.92" etag="QRkhTGvQ5sapkCAGzBLP" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T13:59:05.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 OPR/64.0.3417.92" etag="Pd5mlCYFluHyUAXQU_T9" version="12.2.6" type="github" pages="1">
   <diagram id="LT8NGlE6znpElKoow22y" name="Page-1">
     <mxGraphModel dx="2947" dy="3821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,20 +48,11 @@
         <mxCell id="glAQ6yH-N_NOaPnOlpz6-3" value="MEAT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=93;" parent="1" vertex="1">
           <mxGeometry x="1074.5" y="-997.5" width="320" height="230" as="geometry"/>
         </mxCell>
-        <mxCell id="glAQ6yH-N_NOaPnOlpz6-4" value="" style="endArrow=none;html=1;fontFamily=Verdana;fontSize=93;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-740" y="2030" as="sourcePoint"/>
-            <mxPoint x="-690" y="1980" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="glAQ6yH-N_NOaPnOlpz6-5" value="" style="endArrow=none;html=1;fontFamily=Verdana;fontSize=96;spacing=8;strokeWidth=48;fillColor=#a0522d;strokeColor=#6D1F00;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-280" y="-5" as="sourcePoint"/>
             <mxPoint x="2890" y="-5" as="targetPoint"/>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="glAQ6yH-N_NOaPnOlpz6-6" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=96;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="2060" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="glAQ6yH-N_NOaPnOlpz6-7" value="UNDERMAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=96;" parent="1" vertex="1">
           <mxGeometry x="875" y="118.5" width="860" height="163" as="geometry"/>
