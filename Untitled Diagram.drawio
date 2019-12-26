@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-03T12:37:04.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 OPR/65.0.3467.48" etag="pSJSPLHK31MAxfObedvX" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-26T13:41:07.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 OPR/65.0.3467.78" etag="BeXkKNgjdej7awtogrvN" version="12.4.3" type="github" pages="1">
   <diagram id="LT8NGlE6znpElKoow22y" name="Page-1">
-    <mxGraphModel dx="7604" dy="6163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6374" dy="5438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -54,7 +54,7 @@
             <mxPoint x="2890" y="-5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="glAQ6yH-N_NOaPnOlpz6-7" value="UNDERMAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=96;" parent="1" vertex="1">
+        <mxCell id="glAQ6yH-N_NOaPnOlpz6-7" value="UNDERMANS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=96;" parent="1" vertex="1">
           <mxGeometry x="875" y="118.5" width="860" height="163" as="geometry"/>
         </mxCell>
         <mxCell id="glAQ6yH-N_NOaPnOlpz6-17" value="EveryThing do right" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=96;" parent="1" vertex="1">
@@ -93,20 +93,26 @@
         <mxCell id="PxQ1XpRJeEsos78_RwRS-2" value="&lt;font style=&quot;font-size: 70px&quot;&gt;Everything is a mystery&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1500" y="1595.5" width="740" height="310" as="geometry"/>
         </mxCell>
-        <mxCell id="Y9Q_h2bvN-27OjLMnEkc-1" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9Q_h2bvN-27OjLMnEkc-1" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="-810" y="2170" width="10" height="160" as="geometry"/>
         </mxCell>
-        <mxCell id="Y9Q_h2bvN-27OjLMnEkc-2" value="" style="line;strokeWidth=2;direction=south;html=1;rotation=41;" vertex="1" parent="1">
+        <mxCell id="Y9Q_h2bvN-27OjLMnEkc-2" value="" style="line;strokeWidth=2;direction=south;html=1;rotation=41;" parent="1" vertex="1">
           <mxGeometry x="1730" y="-445.5" width="10" height="2368" as="geometry"/>
         </mxCell>
-        <mxCell id="Y9Q_h2bvN-27OjLMnEkc-3" value="&lt;font style=&quot;font-size: 89px&quot;&gt;Barbarians&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=132;" vertex="1" parent="1">
+        <mxCell id="Y9Q_h2bvN-27OjLMnEkc-3" value="&lt;font style=&quot;font-size: 89px&quot;&gt;Barbarians&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=132;" parent="1" vertex="1">
           <mxGeometry x="635" y="439" width="2030" height="510" as="geometry"/>
         </mxCell>
-        <mxCell id="Y9Q_h2bvN-27OjLMnEkc-4" value="&lt;font style=&quot;font-size: 64px&quot;&gt;They can imitiate white man lifestyle&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="Y9Q_h2bvN-27OjLMnEkc-4" value="&lt;font style=&quot;font-size: 64px&quot;&gt;They can imitiate white man lifestyle&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="2290" y="281.5" width="870" height="200" as="geometry"/>
         </mxCell>
-        <mxCell id="Y9Q_h2bvN-27OjLMnEkc-5" value="&lt;font style=&quot;font-size: 64px&quot;&gt;They can not imitiate white man lifestyle&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="Y9Q_h2bvN-27OjLMnEkc-5" value="&lt;font style=&quot;font-size: 64px&quot;&gt;They can not imitiate white man lifestyle&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-760.5" y="281.5" width="870" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="tcR2VC9RMNSuLBHmdIJx-1" value="&lt;span style=&quot;font-size: 100px&quot;&gt;the can not imitate white life&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1310" width="680" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="tcR2VC9RMNSuLBHmdIJx-2" value="&lt;span style=&quot;font-size: 100px&quot;&gt;they easly imitate white life&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1300" width="680" height="450" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
