@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2020-02-25T17:11:14.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 OPR/66.0.3515.103" etag="3nV6o6wc97rF8VZv25ko" version="12.7.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T17:14:31.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 OPR/66.0.3515.103" etag="ea7LRRxbTAanZqQM2jxm" version="12.7.6" type="github">
   <diagram id="LT8NGlE6znpElKoow22y" name="Page-1">
     <mxGraphModel dx="8564" dy="6353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SUtvQnXsfkYk7cVld-wP-1" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
+        <mxCell id="SUtvQnXsfkYk7cVld-wP-1" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;strokeWidth=32;dashed=1;perimeterSpacing=18;strokeColor=#000099;comic=1;shadow=0;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-220.5" y="-800" width="2910" height="2000" as="geometry" />
         </mxCell>
         <mxCell id="SUtvQnXsfkYk7cVld-wP-2" value="&lt;font style=&quot;font-size: 128px&quot;&gt;S.S. TRIANGLE&lt;/font&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Georgia;" parent="1" vertex="1">
